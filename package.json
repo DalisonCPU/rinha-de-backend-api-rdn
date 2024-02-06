@@ -1,0 +1,29 @@
+{
+  "name": "rinha-de-backend-api-rdn",
+  "version": "1.0.0",
+  "description": "Api para a Rinha de Backend 2024 Q1",
+  "main": "index.js",
+  "scripts": {
+    "commit": "cz",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DalisonCPU/rinha-de-backend-api-rdn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DalisonCPU/rinha-de-backend-api-rdn/issues"
+  },
+  "homepage": "https://github.com/DalisonCPU/rinha-de-backend-api-rdn#readme",
+  "devDependencies": {
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
