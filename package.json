@@ -25,5 +25,9 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "fastify": "^4.26.0",
+    "prisma": "^5.9.1"
   }
 }
